@@ -9,32 +9,29 @@ A complete collection of TCP and UDP-based socket programming examples written i
 ## 📁 Project Structure
 
 Socket-Programming-in-Computer-Networks-/
-│
-├── TCP
-│ ├── 1.Single Chat/
-│ ├── 2.Chat Application/
-│ ├── 3.Reverse Number/
-│ ├── 4.Reverse String/
-│ ├── 5.Palindrome Check/
-│ ├── 6.Armstrong Number/
-│ ├── 7.Fibonacci Series/
-│ ├── 8.Prime Number Check/
-│ └── 9.Factorial/
-│ └── 10.Arithmetic/
-│
-│
-└── UDP
-│ ├── 1.Single Chat/
-│ ├── 2.Chat Application/
-│ ├── 3.Reverse Number/
-│ ├── 4.Palindrome Check/
-│ ├── 5.Armstrong Check/
-│ ├── 6.Fibonacci/
-│ ├── 7.Prime/
-│ ├── 8.Factorial/
-│ ├── 9.Arithmetic/
-│ └── 10.Reverse String/
-│
+
+### TCP Programs
+- 1.Single Chat
+- 2.Chat Application
+- 3.Reverse Number
+- 4.Reverse String
+- 5.Palindrome Check
+- 6.Armstrong Number
+- 7.Fibonacci Series
+- 8.Prime Number Check
+- 9.Factorial
+
+### UDP Programs
+- 1.Single Chat
+- 2.Chat Application
+- 3.Reverse Number
+- 4.Palindrome Check
+- 5.Armstrong Check
+- 6.Fibonacci
+- 7.Prime
+- 8.Factorial
+- 9.Arithmetic
+- 10.Reverse String
 
 Each subfolder contains:
 - `client.c`: Client-side implementation
@@ -57,9 +54,8 @@ Each subfolder contains:
 
 ### 🛠 Step 1: Compile the Files
 Use `gcc` to compile both server and client:
-
-gcc server.c -o server
-gcc client.c -o client
+  gcc server.c -o server
+  gcc client.c -o client
 💡 Run this inside any of the folders like TCP/2.Chat Application/ or UDP/3.Reverse Number/
 
 ▶️ Step 2: Run the Server
@@ -72,6 +68,7 @@ gcc client.c -o client
 📥 Clone This Repository
 
 git clone https://github.com/Himanshu6848/Socket-Programming-in-Computer-Networks-.git
+
 cd Socket-Programming-in-Computer-Networks-
 
 🧑‍💻 Author
