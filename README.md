@@ -3,6 +3,8 @@
 A complete collection of TCP and UDP-based socket programming examples written in **C for Linux systems**. This repository helps you practice client-server communication and understand the fundamentals of network programming.
 
 > 🐧 **Note:** These programs are designed for **Linux/Unix environments only**. They use POSIX-compliant system calls and **will not work on Windows** without modification.
+ 
+---
 
 ## 📁 Project Structure
 
@@ -19,6 +21,7 @@ Socket-Programming-in-Computer-Networks-/
 │ ├── 8.Prime Number Check/
 │ └── 9.Factorial/
 │ └── 10.Arithmetic/
+│
 │
 └── UDP
 │ ├── 1.Single Chat/
@@ -37,6 +40,7 @@ Each subfolder contains:
 - `client.c`: Client-side implementation
 - `server.c`: Server-side implementation
 
+---
 
 ## 🧪 Features
 
@@ -47,6 +51,7 @@ Each subfolder contains:
 - ✅ Programs are modular and well-commented
 - ✅ Ideal for students, networking labs, and academic projects
 
+---
 
 ## ⚙️ How to Run (Linux Only)
 
