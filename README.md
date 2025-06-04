@@ -1,4 +1,4 @@
-# 🔌 Socket Programming in C (Linux Only)
+# 🔌 Socket Programming in C (Linux Only) 
 
 A complete collection of TCP and UDP-based socket programming examples written in **C for Linux systems**. This repository helps you practice client-server communication and understand the fundamentals of network programming.
 
