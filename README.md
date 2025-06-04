@@ -72,12 +72,15 @@ git clone https://github.com/Himanshu6848/Socket-Programming-in-Computer-Network
 cd Socket-Programming-in-Computer-Networks-
 
 🧑‍💻 Author
+
 Himanshu Das
-Socket Programming Projects using C on Linux
+
 
 📜 License
+
 This project is licensed under the MIT License.
 
 💬 Contributions
+
 Have ideas, improvements, or bug fixes?
 Feel free to fork the repo, submit a pull request, or open an issue.
